@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="457"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="welcome.svg"
+   inkscape:export-filename="/home/agaida/work/siduction/code/pkg-main/calamares-settings/siduction-calamares/svg/welcome.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   viewBox="0 0 457 300">
+  <title
+     id="title2687">siduction-noX</title>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3538"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="476.25256"
+         x="230.04202"
+         height="76.848099"
+         width="353.09943"
+         id="rect3540"
+         style="opacity:0.4813084;fill:#000000;fill-opacity:1;stroke:none" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2673-1-5"
+       inkscape:label="Metal Casting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Smooth drop-like bevel with metallic finish">
+      <feColorMatrix
+         id="feColorMatrix2675-7-2"
+         values="0.37"
+         type="saturate"
+         in="SourceGraphic"
+         result="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur2677-8-7"
+         stdDeviation="7"
+         in="SourceAlpha" />
+      <feSpecularLighting
+         id="feSpecularLighting2679-9-6"
+         specularExponent="8"
+         specularConstant="3.88000011"
+         surfaceScale="10"
+         result="result2">
+        <feDistantLight
+           id="feDistantLight2681-8-5"
+           azimuth="225"
+           elevation="17" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite2683-7-9"
+         in2="result1"
+         operator="atop" />
+    </filter>
+    <filter
+       y="-0.25"
+       x="-0.25"
+       height="1.5"
+       width="1.5"
+       inkscape:label="Drop shadow"
+       id="filter8554-99-02-3-7-6"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="1"
+         in="SourceAlpha"
+         id="feGaussianBlur8556-3-0-6-7-5-0" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 0.5 0 "
+         type="matrix"
+         result="bluralpha"
+         id="feColorMatrix8558-6-1-1-3-3" />
+      <feOffset
+         result="offsetBlur"
+         dy="-1"
+         dx="1"
+         in="bluralpha"
+         id="feOffset8560-0-9-0-9-9-3" />
+      <feMerge
+         id="feMerge8562-5-62-6-0-0">
+        <feMergeNode
+           in="offsetBlur"
+           id="feMergeNode8564-0-1-3-3-3" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode8566-2-20-2-9-3" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="linearGradient6147-1-1-4-4-7-0-6-2">
+      <stop
+         id="stop6149-6-3-9-3-3-6-7-2"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-9-5-1-1-4-4"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-5-94-7-1-5-3-5">
+      <stop
+         id="stop6149-6-3-5-2-4-9-5-2-6"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-3-06-3-0-4-0-6"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-0-9-4-5-7-2-1">
+      <stop
+         id="stop6149-6-3-3-5-6-6-6-2-1"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-36-6-9-7-5-6-0"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-5-3-14-2-7-6-8-6-6">
+      <stop
+         id="stop6149-6-3-5-0-3-2-4-9-1-8"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-3-0-7-6-0-3-4-5"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-0-5-7-1-64-7-8-6">
+      <stop
+         id="stop6149-6-3-3-1-3-2-7-4-7-9-0"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-36-1-39-8-4-5-3-7"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-0-2-4-9-8-2-5-2">
+      <stop
+         id="stop6149-6-3-3-4-4-28-5-5-0-1"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-36-9-49-8-8-4-2-7"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-5-3-1-3-6-2-7-2-7">
+      <stop
+         id="stop6149-6-3-5-0-7-8-8-6-4-7-5"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-3-0-2-32-3-0-4-7-9"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-0-5-6-5-3-6-3-4-8">
+      <stop
+         id="stop6149-6-3-3-1-1-4-3-6-0-1-3"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-36-1-5-3-3-4-7-7-3"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6147-1-1-5-3-1-8-4-0-6-8-4-4">
+      <stop
+         id="stop6149-6-3-5-0-7-1-9-4-2-6-8-7-3"
+         offset="0"
+         style="stop-color:#5f8dd3;stop-opacity:1;" />
+      <stop
+         id="stop6151-5-0-3-0-2-3-5-7-8-8-0-7"
+         offset="1"
+         style="stop-color:#162d50;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1390592"
+     inkscape:cx="252.40527"
+     inkscape:cy="203.8567"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1139"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     width="0px"
+     height="0px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-4.9999989,600"
+       id="guide9388"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-4.9999989,600"
+       id="guide9390"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="805.00001,-2.4999503"
+       id="guide9399"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="810.00001,-19.99995"
+       id="guide9401"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1.2109375e-06,605"
+       id="guide13870"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0,570.87884"
+       id="guide13872"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-2.4999988,4.9726563e-05"
+       id="guide13874"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-4.9999989,-4.9999504"
+       id="guide13876"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="805.00001,30.679376"
+       id="guide13878"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="784.92644,88.818755"
+       id="guide3817"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="777.93895,555"
+       id="guide3819"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="526.93512,74.963312"
+       id="guide250"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="40.000001,625"
+       id="guide252"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="-200.30764,260.28347"
+       id="guide3253"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="217.58985,39.999593"
+       orientation="1,0"
+       id="guide487"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>siduction-noX</dc:title>
+        <dc:date>2012-10-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sven Strohmeier</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Sven Strohmeier</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Sven Strohmeier</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>gfx</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Wallpaper for siduction
+
+This work is published under the WTFPL</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Sven Strohmeier {se7enelven at gmail dot com}
+Hendrik Lehmbruch {hlehmbruch at gmx dot net}
+Alexander Weber {xweber.alex at googlemail dot com}
+Tom Wroblewski {GoinEasy9 at linux dot com}
+Markus Meyer {coruja at siduction dot org}</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://sam.zoy.org/wtfpl/    " />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(587.95276,-1044.9311)">
+    <image
+       sodipodi:absref="/home/agaida/work/siduction/code/lxliveiso/packages/calamares-branding/calamares-branding-lxqtlive/svg/background.jpg"
+       xlink:href="background.jpg"
+       preserveAspectRatio="none"
+       width="505.71017"
+       height="316.06888"
+       id="image12629"
+       x="-614.70398"
+       y="1033.8622" />
+    <text
+       id="text24023-0-3-3"
+       y="1303.5328"
+       x="-549.66418"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.41279411px;line-height:11.76599121px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.58829963"
+       xml:space="preserve"><tspan
+         id="tspan38-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.41497993px;line-height:11.76599121px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.58829963"
+         sodipodi:role="line"
+         x="-549.66418"
+         y="1303.5328"><tspan
+           id="tspan40-3-0"
+           style="font-size:17.93412018px;line-height:11.76599121px;fill:#f9f9f9;stroke-width:0.58829963">based on debian/sid</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.29960251px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e61919;fill-opacity:1;stroke:none"
+       x="566.99707"
+       y="691.00446"
+       id="text2399-6"
+       transform="matrix(0.7895518,0.62444279,-0.61623404,0.77917257,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2401-6"
+         x="566.99707"
+         y="691.00446"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.22049141px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">Release Candidate</tspan><tspan
+         sodipodi:role="line"
+         x="566.99707"
+         y="727.08051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.38732147px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="tspan9905" /></text>
+    <g
+       transform="translate(-463.31192,60.251364)"
+       id="layer1-4"
+       inkscape:label="Layer 1">
+      <g
+         transform="matrix(0.71176202,0,0,0.69059463,-161.19052,664.92927)"
+         clip-path="url(#clipPath3538)"
+         id="g3506">
+        <g
+           inkscape:export-ydpi="89"
+           inkscape:export-xdpi="89"
+           inkscape:export-filename="/home/coruja/siduction/artwork/coruja.web.header.png"
+           id="g6886-9-9"
+           style="display:inline"
+           transform="matrix(1.1785216,0,0,1.1829341,-1393.5471,-667.09574)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.87728119px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#999999;fill-opacity:1;stroke:none;filter:url(#filter2673-1-5)"
+       x="-807.99683"
+       y="854.18756"
+       id="text2399-3"
+       transform="matrix(0.50357273,0,0,0.49695292,-363.60649,815.0816)"><tspan
+         sodipodi:role="line"
+         id="tspan2401-9"
+         x="-807.99683"
+         y="920.4364" /></text>
+    <rect
+       style="fill:#ff6600;fill-opacity:1"
+       id="rect12621-3-8"
+       width="5.0000014"
+       height="4.9999504"
+       x="212.04724"
+       y="721.18109" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1"
+       id="rect12621-3"
+       width="5.0000014"
+       height="4.9999504"
+       x="212.04724"
+       y="1326.181" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke-width:1.00001347"
+       id="rect12621-3-0"
+       width="5.0000691"
+       height="5.0000181"
+       x="-592.95276"
+       y="1344.931" />
+    <rect
+       style="fill:#ff6600;fill-opacity:1"
+       id="rect12621-3-6"
+       width="5.0000014"
+       height="4.9999504"
+       x="-592.95276"
+       y="721.18115" />
+    <rect
+       y="-587.95276"
+       x="-721.18109"
+       height="20"
+       width="20"
+       id="rect12621-3-7-0-6"
+       style="fill:#ff6600;fill-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#6f7c91;fill-opacity:1"
+       id="rect152"
+       width="20"
+       height="20"
+       x="-721.18109"
+       y="-567.95276"
+       transform="rotate(-90)" />
+    <rect
+       y="-527.95276"
+       x="-721.18109"
+       height="20"
+       width="20"
+       id="rect156"
+       style="fill:#162d50;fill-opacity:1"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1"
+       id="rect158"
+       width="20"
+       height="20"
+       x="-721.18109"
+       y="-507.95276"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       y="-547.95276"
+       x="-721.18109"
+       height="20"
+       width="20"
+       id="rect157"
+       style="fill:#566182;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.93464518px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.49591532"
+       x="-447.82028"
+       y="1103.6481"
+       id="text24023-0-35"><tspan
+         y="1103.6481"
+         x="-447.82028"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.79576683px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.49591532"
+         id="tspan38">0.11.1<tspan
+   style="font-size:15.11781788px;fill:#f9f9f9;stroke-width:0.49591532"
+   id="tspan40" /></tspan></text>
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke-width:1.06666672"
+       id="rect12621-3-62"
+       width="5.3333349"
+       height="5.3332806"
+       x="526.99591"
+       y="1234.651" />
+    <image
+       sodipodi:absref="/home/agaida/work/siduction/code/lxliveiso/packages/calamares-branding/calamares-branding-lxqtlive/svg/../../../lxqt-grub-theme/unstable/svg/lxqt-white.png"
+       xlink:href="../../../lxqt-grub-theme/unstable/svg/lxqt-white.png"
+       width="103.37579"
+       height="42.59082"
+       preserveAspectRatio="none"
+       id="image304"
+       x="-554.82318"
+       y="1070.9312" />
+    <flowRoot
+       transform="matrix(1.0666667,0,0,1.0666667,-543.33638,111.9114)"
+       xml:space="preserve"
+       id="flowRoot201"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:25px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion203"
+         style="fill:#ff00ff"><rect
+           id="rect205"
+           width="1277"
+           height="365"
+           x="-40"
+           y="-75.333344"
+           style="fill:#ff00ff" /></flowRegion><flowPara
+         id="flowPara207" /></flowRoot>  </g>
+</svg>

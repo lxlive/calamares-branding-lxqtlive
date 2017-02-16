@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: calamares-branding-lxliveiso
+Source: https://g
+
+Files: *
+Copyright: Alf Gaida <agaida@siduction.org>
+License: LGPL-2.1
+
+Files: debian/*
+Copyright: 2016 Jonathan Carter <jcarter@linux.com>
+License: LGPL-2.1
+

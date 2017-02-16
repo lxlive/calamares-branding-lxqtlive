@@ -1,0 +1,20 @@
+Source: calamares-branding-lxqtlive
+Section: utils
+Priority: optional
+Maintainer: Alf Gaida <agaida@siduction.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.9.8
+Homepage: https://
+Vcs-Git: https://
+Vcs-Browser: https://
+
+Package: calamares-branding-lxqtlive
+Architecture: all
+Depends: ${misc:Depends},
+         calamares
+Provides: calamares-branding
+Description: LXQt theme and settings for the Calamares Installer
+ Calamares is a genereic installer framework for Linux distributions.
+ By default, it contains a set of boilerplate wording and images. This
+ package provides the latest LXQt artwork as well as scripts that
+ supports EFI installations.
