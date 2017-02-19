@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 3.9.8
-Homepage: https://
-Vcs-Git: https://
-Vcs-Browser: https://
+Homepage: https://github.com/lxlive/calamares-branding-lxqtlive
+Vcs-Git: https://github.com/lxlive/calamares-branding-lxqtlive
+Vcs-Browser: https://github.com/lxlive/calamares-branding-lxqtlive
 
 Package: calamares-branding-lxqtlive
 Architecture: all
